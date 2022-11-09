@@ -5,5 +5,3 @@
 **Finding local wineries by zip code**
 
 zipcode tab bar
-
-+98008
