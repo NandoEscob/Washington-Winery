@@ -9,7 +9,6 @@
 ## 5 Wineries located in Woodinville WA
 
 **Columbia Winery**
-(https://www.columbiawinery.com/)
 
 **Novelty Hill-januik winery**
 
