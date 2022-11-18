@@ -30,7 +30,7 @@
 
 **Eight Bells Winery**
 
-## 5 Wineries in Walla walla WA
+## 5 Wineries located in Walla Walla WA
 
 **Foundry Vineyards**
 
