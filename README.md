@@ -18,4 +18,12 @@
 
 **Avennia Tasting Room**
 
+## 5 Wineries located in Seattle WA
 
+**Champion Wine Cellars**
+
+**Almquist Winery**
+
+**Rotie Cellars**
+
+**Nine Hats Wine**
