@@ -4,9 +4,7 @@
 
 ## Objective to Project
 
-Theme: midnight
-
-''' To expose some of the local wineries in WA to Tourist'''
+Hi! our goal is to showcase diversity sites of **wineries** around Washington state and king county. To develop local cylture and build up community resources. Also to see the *beauty* of the process of making wine.
 
 ## 5 Wineries located in Woodinville WA
 
