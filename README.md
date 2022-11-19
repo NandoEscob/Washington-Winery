@@ -44,4 +44,3 @@ Theme: midnight
 
 **The Walls Vineyards**
 
-theme: Midnight
