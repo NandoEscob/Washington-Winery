@@ -41,26 +41,65 @@ Avennia Tasting Room
 * (425) 482-4364
 
 ## 5 Wineries located in Seattle WA
+Champion Wine Cellars
 
-**Champion Wine Cellars**
+* 8515 Greenwood Ave N, Seattle, WA 98103
 
-**Almquist Winery**
+* (206) 284-8306
 
-**Rotie Cellars**
+Almquist Winery
 
-**Nine Hats Wine**
+* 198 Nickerson St, Seattle, WA 98109
 
-**Eight Bells Winery**
+* (206) 953-2962
+
+Rotie Cellars
+
+* 3861 1st Ave S Suite F, Seattle, WA 98134
+
+* (206) 359-0905
+
+Nine Hats Wine
+
+* 3861 1st Ave S, Seattle, WA 98134
+
+* (206) 582-0700
+
+Eight Bells Winery
+
+* 6213 Roosevelt Way NE ste b, Seattle, WA 98115
+
+(206) 294-4131
 
 ## 5 Wineries located in Walla Walla WA
 
-**Foundry Vineyards**
+Foundry Vineyards
 
-**Seven Hills Winery**
+* 1111 Abadie St, Walla Walla, WA 99362
 
-**El Corazon Winery**
+* (509) 529-0736
 
-**Gard Vintners**
+Seven Hills Winery
 
-**The Walls Vineyards**
+* 212 N 3rd Ave, Walla Walla, WA 99362
+
+(509) 529-7198
+
+El Corazon Winery
+
+* 37 S Palouse St, Walla Walla, WA 99362
+
+* (509) 520-4408
+
+Gard Vintners
+
+* 43 E Main St, Walla Walla, WA 99362
+
+* (509) 524-9099
+
+The Walls Vineyards
+
+* 1015 W Pine St, Walla Walla, WA 99362
+
+(509) 876-0200
 
