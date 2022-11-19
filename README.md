@@ -99,5 +99,5 @@ The Walls Vineyards
 
 * 1015 W Pine St, Walla Walla, WA 99362
 
-(509) 876-0200
+* (509) 876-0200
 
