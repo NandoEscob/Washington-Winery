@@ -114,13 +114,13 @@ Phone: [425-400-5505](%28425%29%20400-5505)
 
 ## GREAT WINE
 
-Winery Name: GREAT WINE INC,
-Address: 958 111th Ave NE #103, Bellevue, WA 98004
-City: Bellevue
-State: Washington
-Phone: [425-941-0411](%28425%29%20941-0411)
-[View Website](https://greatwineusa.com)
-[View Google Maps](https://www.google.com/maps/place/GREAT+WINE,+Inc./@47.6187431,-122.1915174,15z/data=!4m6!3m5!1s0x54906c8b976e2777:0x9271e5385eee4618!8m2!3d47.6187431!4d-122.1915174!16s/g/11f12164zl)
+-Winery Name: GREAT WINE INC,
+-Address: 958 111th Ave NE #103, Bellevue, WA 98004
+-City: Bellevue
+-State: Washington
+-Phone: [425-941-0411](%28425%29%20941-0411)
+-[View Website](https://greatwineusa.com)
+-[View Google Maps](https://www.google.com/maps/place/GREAT+WINE,+Inc./@47.6187431,-122.1915174,15z/data=!4m6!3m5!1s0x54906c8b976e2777:0x9271e5385eee4618!8m2!3d47.6187431!4d-122.1915174!16s/g/11f12164zl)
 
 
 ## Hedge & Vine
